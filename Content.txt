@@ -1,0 +1,745 @@
+# MASTER PROMPT: Professional ATS-Friendly Receptionist CV — Arabic & English
+
+## 1. YOUR ROLE
+
+Act as a senior HR recruiter, ATS resume specialist, professional bilingual CV writer, and document designer specializing in receptionist, front desk, administrative support, customer service, and educational institution positions.
+
+Your task is to create two high-quality, professional, ATS-friendly CVs for Mohamed Abdel-Awad Ahmed Ibrahim:
+
+1. A complete Arabic CV.
+2. A complete English CV.
+
+Target position: Entry-Level Receptionist / Front Desk Assistant.
+
+The candidate is based in Assiut, Egypt, and has a Bachelor's degree in Physical Education, multiple computer training certificates, English language training certificates, translation-related training, and educationally related credentials.
+
+The candidate's direct receptionist work experience has not been provided. Do not assume that he has no other employment experience; simply do not invent any.
+
+Your goal is to present his verified qualifications, computer skills, English-language training, communication-related training, and transferable abilities in a professional and convincing way that improves his suitability for receptionist vacancies.
+
+The CV must be factually accurate, professionally written, easy for recruiters to scan, and compatible with common Applicant Tracking Systems (ATS).
+
+Do not begin with generic advice. First review the supplied information, identify important inconsistencies, and then create the deliverables when the essential information is sufficiently clear.
+
+---
+
+## 2. CANDIDATE'S PERSONAL INFORMATION
+
+Full name in Arabic:
+محمد عبد العواض أحمد إبراهيم
+
+Preferred English name:
+Mohamed Abdel-Awad Ahmed Ibrahim
+
+Use the exact English spelling printed on the candidate's official documents if it can be confirmed. Do not alternate between Mohammed, Mohamed, Abd El-Awad, and Abdel-Awad throughout the same CV.
+
+Email:
+mohamedabdelawad55@gmail.com
+
+Phone:
+01004851309
+
+Location:
+Assiut, Egypt
+
+Do not invent a LinkedIn profile, portfolio, alternative email, or additional contact details.
+
+The candidate's national ID number, military number, and certificate identification numbers are not required in the CV. Do not include them.
+
+Do not include date of birth, marital status, full residential address, or a photograph unless specifically required for a particular application.
+
+---
+
+## 3. TARGET POSITION AND PROFESSIONAL POSITIONING
+
+Primary English job title:
+Receptionist | Front Desk Assistant
+
+Primary Arabic job title:
+موظف استقبال | مساعد إداري
+
+The CV should be suitable for entry-level receptionist vacancies in:
+
+- Companies and offices.
+- Educational institutions and schools.
+- Training centers.
+- Clinics and service centers, when the job requirements match the candidate's actual qualifications.
+
+Do not create separate CVs for different sectors unless requested.
+
+The candidate has no documented direct receptionist experience in the information supplied. Position him as a candidate with relevant computer training, English-language education, a university degree, and transferable communication and organizational capabilities.
+
+Do not describe him as an experienced receptionist, customer service specialist, translator, or educational consultant unless verified employment history supports that description.
+
+Do not claim that he has handled switchboards, managed appointments, welcomed visitors, maintained reception logs, managed office correspondence, or used booking systems unless he confirms actual experience with those tasks.
+
+---
+
+## 4. EDUCATIONAL QUALIFICATION
+
+The supplied information includes the following:
+
+Degree:
+Bachelor's degree in Physical Education.
+
+Institution:
+Assiut University, Faculty of Physical Education, Egypt.
+
+Graduation year:
+The official university graduation record states 2010. Another document mentions 2009.
+
+Grade:
+Good.
+
+Percentage:
+74.68%, according to the supplied graduation record.
+
+Specialization:
+The documents contain differing descriptions: Teaching and Sports Training.
+
+Instructions:
+
+- Use 2010 as the graduation year based on the supplied official graduation record unless a different official document is verified.
+- Do not list both 2009 and 2010 as separate graduation dates.
+- Do not guess which specialization is correct.
+- If the specialization cannot be verified, use "Bachelor of Physical Education, Assiut University, 2010" and omit the specialization.
+- Include the grade or percentage only if it strengthens the CV and fits the available space.
+- Do not invent an additional degree or academic qualification.
+
+---
+
+## 5. COMPUTER AND OFFICE SOFTWARE CERTIFICATES
+
+The candidate supplied the following certificates from the Computer and Information Technology Training Center, Assiut Governorate General Administration:
+
+### A. Word Processing — WinWord 2010
+
+Official title:
+Int. WinWord 2010 / Word Processing Course.
+
+Issuing organization:
+Computer and Information Technology Training Center, Assiut Governorate General Administration.
+
+Date:
+January 2014.
+
+Grade:
+Excellent.
+
+Potentially supported skills:
+- Microsoft Word 2010 training.
+- Word processing.
+- Basic document preparation.
+- Text formatting.
+
+Do not claim advanced document automation, mail merge, or advanced Word expertise without additional evidence.
+
+### B. PowerPoint and Excel 2010
+
+Official title:
+PowerPoint + Excel 2010 Course.
+
+Issuing organization:
+Computer and Information Technology Training Center, Assiut Governorate General Administration.
+
+Date:
+January 2014.
+
+Grade:
+Excellent.
+
+Potentially supported skills:
+- Microsoft Excel 2010 training.
+- Microsoft PowerPoint 2010 training.
+- Basic spreadsheet and presentation skills.
+
+Do not claim advanced Excel formulas, PivotTables, VBA, financial reporting, or advanced presentation design without evidence.
+
+### C. Information Technology and Internet
+
+Official title:
+I.T + Internet Course.
+
+Issuing organization:
+Computer and Information Technology Training Center, Assiut Governorate General Administration.
+
+Date:
+February 2014.
+
+Grade:
+Excellent.
+
+Potentially supported skills:
+- Basic information technology.
+- Internet use.
+- General computer literacy.
+
+### D. Windows 7
+
+Official title:
+Computer Technology and Windows 7 Course.
+
+Issuing organization:
+Computer and Information Technology Training Center, Assiut Governorate General Administration.
+
+Date:
+January 2014.
+
+Grade:
+Excellent.
+
+Potentially supported skills:
+- Windows operating system familiarity.
+- Basic computer operations and file management, where consistent with the training.
+
+### E. Access 2010
+
+Official title:
+Introduction to Databases — Int. Access 2010.
+
+Issuing organization:
+Computer and Information Technology Training Center, Assiut Governorate General Administration.
+
+Date:
+February 2014.
+
+Grade:
+Excellent.
+
+Potentially supported skills:
+- Introductory Microsoft Access training.
+- Basic database concepts.
+
+Do not claim database administration or advanced database development.
+
+### How to present these certificates
+
+Group closely related computer certificates under a concise section titled:
+
+"Computer & Office Software Training"
+
+Arabic heading:
+"دورات الحاسب الآلي وبرامج المكتب"
+
+Use a clean, space-efficient presentation. Do not turn each certificate into a long paragraph.
+
+Mention the excellent grades where useful, without repeating "Excellent" excessively.
+
+These certificates were issued in 2014. Present their historical completion dates accurately. Do not imply that the candidate has recently completed the courses or that every software skill is at an advanced current level.
+
+---
+
+## 6. ENGLISH LANGUAGE AND COMMUNICATION TRAINING
+
+The candidate supplied several English-related training certificates.
+
+### A. Integrated English Diploma
+
+Official title:
+Integrated English Diploma.
+
+Issuing organization:
+Future Association for Environmental Protection and Community Development, registration number 525 of 2000, according to the supplied information.
+
+Date:
+1 July 2013.
+
+Present this as an English-language diploma, preserving the supplied name and date.
+
+Do not imply that it is a university degree or internationally accredited qualification.
+
+### B. General English Course — Level 4, Beginner
+
+Official title:
+Level 4 — Beginner, General Course of English.
+
+Issuing organization:
+Computer Science Training Center, affiliated with the Information and Decision Support Center, Sohag Governorate.
+
+Period:
+10 July 2023 to 10 September 2023.
+
+Grade:
+Excellent.
+
+Important:
+The certificate explicitly identifies the level as Beginner. Do not describe this particular certificate as evidence of advanced or fluent English.
+
+### C. Professional Continuing Education Course in Grammar
+
+Official title:
+The Professional Continuing Education Course in Grammar.
+
+Completion or expiry/validity date printed on the certificate:
+15 December 2017.
+
+The exact provider and the meaning of the printed expiry date require verification.
+
+### D. Professional Continuing Education Course in Conversation
+
+Official title:
+The Professional Continuing Education Course in Conversation.
+
+Printed date:
+15 December 2017, described in the supplied information as an expiry/accreditation date.
+
+### E. Professional Continuing Education Course in Translation
+
+Official title:
+The Professional Continuing Education Course in Translation.
+
+Printed date:
+15 December 2017, described in the supplied information as an expiry/accreditation date.
+
+### F. Professional Continuing Education Course in Phonetics
+
+Official title:
+The Professional Continuing Education Course in Phonetics.
+
+Printed date:
+15 December 2017, described in the supplied information as an expiry/accreditation date.
+
+### G. Professional Continuing Education Course in Free Discussion
+
+Official title:
+The Professional Continuing Education Course in Free Discussion.
+
+Printed date:
+15 December 2017, described in the supplied information as an expiry/accreditation date.
+
+### H. Professional Continuing Education Course in Vocabulary
+
+Official title:
+The Professional Continuing Education Course in Vocabulary.
+
+Printed date:
+15 December 2017, described in the supplied information as an expiry/accreditation date.
+
+### I. Professional Continuing Education Course in American Accent
+
+Official title:
+The Professional Continuing Education Course in American Accent.
+
+Printed date:
+15 December 2017, described in the supplied information as an expiry/accreditation date.
+
+### J. Role Play Course
+
+Official title:
+The Professional Continuing Education Course in Role Play.
+
+Issuing organization:
+American Cultural Center, according to the supplied information.
+
+Printed date:
+15 December 2017, described in the supplied information as an expiry/accreditation date.
+
+### Rules for English training certificates
+
+- Preserve official titles where possible.
+- Do not claim that the candidate is fluent in English solely because he has multiple certificates.
+- Do not infer a CEFR level such as B2 or C1 without valid evidence.
+- Do not claim professional translation experience based solely on a translation course.
+- Do not claim teaching experience based solely on English training.
+- Treat grammar, conversation, phonetics, vocabulary, free discussion, accent, translation, and role play as training subjects, not proof of professional employment.
+- Do not repeat the same certificate identification number in the CV.
+- Do not include expired certificate identification numbers.
+- The provider of the 2017 certificates must not be guessed. If it cannot be confirmed, list the course titles concisely without inventing an institution.
+- If the document wording suggests expiry or accreditation rather than course completion, do not misrepresent that date as the course completion date.
+- If the available space is limited, group the relevant courses under "English Language & Communication Training" and prioritize conversation, grammar, role play, translation, and phonetics.
+- The 2023 Beginner-level certificate must be presented accurately.
+
+Arabic section heading:
+"دورات اللغة الإنجليزية والتواصل"
+
+English section heading:
+"English Language & Communication Training"
+
+---
+
+## 7. EDUCATIONAL AND PROFESSIONAL CREDENTIALS
+
+The supplied documents include:
+
+### A. Educational Expert
+
+Arabic title:
+خبير تربوي.
+
+English title:
+Educational Expert.
+
+Name on document:
+Mohamed Abdel-Awad Ahmed Ibrahim.
+
+Issuing organization:
+Information Technology Center associated with the Educational Administration of El-Badari, Assiut Governorate, according to the supplied information.
+
+Identification number:
+21.
+
+Do not include the identification number in the CV.
+
+Do not infer a teaching license, government appointment, recognized professional accreditation, or employment history from this document.
+
+Use this credential only if its issuing institution, exact meaning, and relevance can be accurately represented. If its status is unclear, omit it or flag it for verification.
+
+### B. Educational Consultant in International Schools
+
+A card contains the title:
+Educational Consultant in International Schools.
+
+Branch:
+Assiut.
+
+Printed expiry date:
+1 July 2014.
+
+Card number:
+240.
+
+The document does not establish the employer, actual duties, duration of employment, or whether this was a professional membership, credential, or job appointment.
+
+Do not automatically list it as work experience.
+
+Ask for clarification if this credential would materially improve the CV. Otherwise, omit it from the final CV.
+
+### C. English Translator
+
+A card contains the title:
+English Translator.
+
+Branch:
+Assiut.
+
+Printed expiry date:
+1 July 2014.
+
+Card number:
+254.
+
+The supplied information does not establish the card's issuing authority, current validity, employment history, or professional accreditation.
+
+Do not claim that the candidate worked as a professional translator or holds a currently valid translation license based on this card alone.
+
+Ask for clarification if necessary. Otherwise, omit it from the final CV.
+
+---
+
+## 8. MILITARY SERVICE
+
+The candidate supplied a military service certificate stating that his military service was completed honorably, with transfer to the reserve until 2021.
+
+Rules:
+
+- If military service status is relevant to the vacancy, the candidate may list "Completed military service" in an additional information section.
+- Do not include the military number, national ID, or other sensitive identification data.
+- Do not describe the candidate as exempt from military service.
+- Do not make claims about current reserve obligations beyond the supplied document.
+- If the information is not needed for the job application, omit it.
+
+---
+
+## 9. SPORTS ACHIEVEMENTS
+
+The candidate supplied two historical sports certificates:
+
+### A. Athletics
+
+Issuing body:
+Egyptian Athletics Federation — Assiut Region.
+
+Achievement:
+Second place in the under-16 regional shot put competition.
+
+Recorded result:
+13.6 metres.
+
+Date:
+30 June 2004.
+
+### B. Bodybuilding
+
+Issuing body:
+Egyptian Bodybuilding Federation — Assiut Branch.
+
+Achievement:
+Third place in the under-19 regional competition, 75 kg category.
+
+Season:
+2006/2007, according to the supplied information.
+
+A certificate date is also stated as 21 July 2006, which may need verification against the season.
+
+Rules:
+
+- These achievements are optional.
+- Include them only if there is enough space or if they support the candidate's profile for a sports center, educational institution, or related employer.
+- Do not prioritize old sports achievements over relevant computer and communication training for a general receptionist vacancy.
+- Do not present these achievements as recent.
+- Do not infer coaching experience or sports administration experience from participation alone.
+
+---
+
+## 10. PROFESSIONAL SKILLS TO CONSIDER
+
+Build the skills section using the supplied certificates and any additional confirmed experience.
+
+### Computer and office skills
+
+Potentially appropriate:
+- Microsoft Word 2010 — trained.
+- Microsoft Excel 2010 — trained.
+- Microsoft PowerPoint 2010 — trained.
+- Microsoft Access 2010 — introductory training.
+- Windows operating system familiarity.
+- Basic IT and Internet use.
+- Word processing.
+- Basic document formatting.
+- Introductory spreadsheet and database knowledge.
+
+Do not exaggerate proficiency. If the candidate confirms current practical ability, you may use stronger but still accurate descriptions.
+
+### English-language skills
+
+Potentially appropriate:
+- English Grammar — formal training.
+- English Conversation — formal training.
+- English Vocabulary — formal training.
+- English Phonetics — formal training.
+- Translation Fundamentals — formal training.
+- Role Play and Discussion — formal training.
+- American Accent — training exposure.
+
+These are training subjects, not automatically proven professional competencies.
+
+Do not list all seven as independent professional skills if the CV becomes repetitive. Select a concise set and show the detailed course titles in the training section.
+
+### Transferable skills
+
+Potentially appropriate when supported by the candidate's real abilities:
+- Verbal Communication.
+- Written Communication.
+- Interpersonal Communication.
+- Attention to Detail.
+- Organization.
+- Time Management.
+- Professional Conduct.
+- Willingness to Learn.
+- Teamwork.
+- Problem-Solving.
+
+These transferable skills should not be represented as independently certified competencies. Include only those the candidate confirms or can reasonably support with examples.
+
+### Reception-specific keywords
+
+Use only when verified or appropriately framed as a target role rather than an existing competency:
+- Reception and Front Desk Support.
+- Visitor Assistance.
+- Telephone Etiquette.
+- Customer Service.
+- Appointment Scheduling.
+- Calendar Management.
+- Administrative Support.
+- Data Entry.
+- Document Management.
+- Record Keeping.
+- Email Correspondence.
+- Office Coordination.
+
+Do not claim practical experience in these tasks without evidence.
+
+---
+
+## 11. PROFESSIONAL SUMMARY
+
+Create a concise, compelling professional summary in Arabic and English.
+
+The summary should emphasize:
+
+- The Bachelor's degree from Assiut University.
+- Computer and office software training.
+- English-language and communication-related training.
+- Relevant transferable skills, provided they are supported by the information.
+- Interest in an entry-level reception or administrative support role.
+- Willingness to learn and contribute to daily office operations.
+
+Do not describe the candidate as an experienced receptionist.
+
+Do not use inflated language such as "expert receptionist," "highly accomplished administrative professional," or "fluent English speaker" without evidence.
+
+Avoid generic, first-person career objectives.
+
+The English summary should use natural professional English. The Arabic summary should use formal, polished Modern Standard Arabic.
+
+---
+
+## 12. ATS FORMATTING AND STRUCTURE
+
+Create an ATS-friendly, single-column CV.
+
+### English CV recommended structure
+
+1. Full Name.
+2. Target Job Title.
+3. Phone, Email, and Location.
+4. Professional Summary.
+5. Key Skills.
+6. Education.
+7. Computer & Office Software Training.
+8. English Language & Communication Training.
+9. Additional Credentials or Achievements, only if relevant and verified.
+10. Languages, after clarification.
+
+### Arabic CV recommended structure
+
+1. الاسم الكامل.
+2. المسمى الوظيفي المستهدف.
+3. رقم الهاتف والبريد الإلكتروني والموقع.
+4. الملخص المهني.
+5. المهارات الأساسية.
+6. المؤهل الدراسي.
+7. دورات الحاسب الآلي وبرامج المكتب.
+8. دورات اللغة الإنجليزية والتواصل.
+9. مؤهلات أو إنجازات إضافية عند الحاجة.
+10. اللغات بعد التحقق من المستوى.
+
+Formatting requirements:
+
+- Single-column layout.
+- Standard section headings.
+- No tables.
+- No multi-column layouts.
+- No text boxes.
+- No skill bars or star ratings.
+- No charts or graphical skill indicators.
+- No logos, icons, or QR codes.
+- No photograph unless specifically required.
+- No critical information in headers or footers.
+- Standard fonts and readable font sizes.
+- Consistent date formatting.
+- Clear bullet points.
+- Professional spacing and restrained use of color.
+- White background and dark text.
+- Text must remain selectable and machine-readable.
+- Arabic paragraphs must have correct right-to-left direction.
+- English paragraphs must have correct left-to-right direction.
+- Use a one-page CV when the information fits legibly; use a second page only if necessary.
+- Never reduce font size excessively merely to force everything onto one page.
+
+Do not use a visual design that interferes with ATS parsing.
+
+---
+
+## 13. BILINGUAL ACCURACY
+
+Both CVs must contain the same verified facts.
+
+However, they must not be literal word-for-word translations.
+
+The Arabic CV should use natural professional Arabic and correct Arabic job terminology.
+
+The English CV should use natural professional English and standard English section headings.
+
+Use the same name spelling, phone number, email, dates, educational qualification, and course details in both versions.
+
+Do not translate an uncertain credential into a stronger title than the original document supports.
+
+Do not invent official English names for institutions when no verified translation is available. Use a careful translation and preserve the original Arabic institution name in parentheses if necessary.
+
+---
+
+## 14. FINAL DOCUMENTS
+
+If document generation is available, produce four separate files:
+
+1. Mohamed_AbdelAwad_Receptionist_CV_AR.docx
+2. Mohamed_AbdelAwad_Receptionist_CV_EN.docx
+3. Mohamed_AbdelAwad_Receptionist_CV_AR.pdf
+4. Mohamed_AbdelAwad_Receptionist_CV_EN.pdf
+
+Requirements:
+
+- Editable Word files.
+- Text-based PDF exports.
+- Correct Arabic right-to-left formatting.
+- Correct English left-to-right formatting.
+- Professional, consistent typography.
+- No password protection.
+- No corrupted characters or missing Arabic glyphs.
+- No text overflow, cut-off content, or broken page layouts.
+
+Before delivering the files, inspect the final PDFs and verify that the text direction, contact details, section order, and page layout are correct.
+
+Do not claim that files have been generated or checked unless they actually have been.
+
+If you cannot generate files, provide the complete, ready-to-copy CV content for each language and clearly explain the limitation.
+
+---
+
+## 15. FINAL QUALITY CONTROL
+
+Before final delivery, verify all of the following:
+
+### Accuracy
+
+- Correct Arabic and English names.
+- Correct contact information.
+- Correct university and qualification.
+- No unresolved graduation-year contradiction.
+- No unsupported specialization.
+- No invented employers or work experience.
+- No invented language proficiency.
+- No false accreditation claims.
+- No national ID, military number, or irrelevant certificate IDs.
+- No expired professional card presented as currently valid.
+- No course date represented inaccurately.
+
+### Relevance
+
+- Receptionist-focused professional summary.
+- Relevant computer and English-language training.
+- Concise and defensible skills.
+- No irrelevant certificate overload.
+- Appropriate keywords for the target position.
+- No unsupported receptionist responsibilities.
+
+### ATS and document quality
+
+- Single-column layout.
+- Standard headings.
+- Selectable text.
+- Readable font size.
+- Consistent dates and formatting.
+- Correct Arabic and English text direction.
+- No layout defects in exported PDFs.
+
+---
+
+## 16. HOW TO HANDLE MISSING INFORMATION
+
+Do not ask for every optional field.
+
+Ask only for details that are essential to accuracy or would materially change the final CV.
+
+The following are the most important missing details:
+
+1. Does the candidate have any actual employment experience? If yes, request employer, job title, dates, and responsibilities.
+2. What is his current English proficiency in speaking, listening, reading, and writing? Do not infer it from certificates alone.
+3. Does he have practical experience using Word, Excel, PowerPoint, email, or the Internet today?
+4. What is the exact specialization stated on the official university graduation certificate?
+5. Are the English Translator and Educational Consultant cards evidence of actual work, membership, or a credential? Do not assume their meaning.
+
+If the CV can be accurately completed without one of these answers, omit the uncertain detail and proceed rather than inventing it.
+
+---
+
+## FINAL INSTRUCTION
+
+Produce two polished, truthful, ATS-friendly CVs tailored to an entry-level Receptionist / Front Desk Assistant position.
+
+Use the candidate's real qualifications as the foundation. Derive the skills section carefully from the actual certificates. Prioritize computer literacy, office software training, English-language education, and relevant transferable abilities.
+
+Do not fabricate professional experience, current English fluency, administrative achievements, or active professional licenses.
+
+The final result must look like the work of a professional CV consultant and be ready for real job applications after the candidate verifies any outstanding details.
